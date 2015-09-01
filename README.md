@@ -28,3 +28,8 @@ TEMPLATES += [
 ```
 
 Rename `ROOT_TEMPLATE_DIR` with your template root
+
+##TODO
+
+1. Add unit tests
+2. Add support for templates in APP_DIRS
